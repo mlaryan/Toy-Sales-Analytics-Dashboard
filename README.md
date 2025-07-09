@@ -1,5 +1,5 @@
-### Toy Retail Analytics Dashboard:
-- 📊 Business Performance Analysis of Toy Products Across Stores in Mexico
+
+#### 📊 Business Performance Analysis of Toy Products Across Stores in Mexico
 
 ### 📌 Project Overview:
 - This project focuses on analyzing a toy business operating across multiple stores in Mexico, selling a wide variety of toy products. The aim is to uncover insights about product sales, profitability, and inventory usage, using Power BI and Python.
