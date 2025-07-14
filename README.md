@@ -30,3 +30,14 @@ The business faced key challenges such as:
 - Visualized outliers and decided to retain them, since they may reflect real-world business anomalies or exceptional events
 - Handled nulls and type mismatches, particularly in Date columns
 - Ensured relational consistency across Sales, Products, Inventory, and Stores tables
+
+----
+### Conclusion (with Numerical Insights):
+
+- Total sales reached $14.44M from 1M units sold, but 30K units remain in stock, with several being low-margin items — especially Lego, requiring redistribution to reduce holding costs.
+- The overall profit margin stands at 27.79%, indicating a healthy average
+- Products like Lego Bricks, Magic Sand, and Animal Figures showed high stock levels but low returns, contributing to over $10.43M in total cost while offering low margins (<25%)
+- Toys lead with 35% of $14.44M sales and $1M profit, while Sports & Outdoors lag with 15.04% sales and $500K profitrmance
+- Monterrey shows a strong profit margin of over 27.48% along with - Ciudad de Mexico, Guadalajara.
+- Cities like Chetumal, Villahermosa, Culiacan, Chilpancingo, Oaxaca, Aguascalientes, Pachuca show low sales and profit, needing review
+- Review pricing and cost strategies in Guadalajara and Sports & Outdoors (only $500K profit from 15.04% sales share) to enhance profitability.
